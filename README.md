@@ -10,4 +10,4 @@ With a keen ability to distill intricate technical concepts into comprehensive, 
 
 If you're seeking a passionate Software Engineer or a skilled Technical Writer who can add value to your organization, I invite you to connect with me. Let's discuss how my expertise and dedication can contribute to your success.
 
-Stack :Java,C, JavaScript, React, NextJS, TypeScript, Tailwind CSS, SASS, Git.
+Contact me at : ayojames444@gmail.com
