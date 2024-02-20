@@ -1,13 +1,18 @@
+# Hey, you found me :)
 
-Results-driven Software Engineer and Technical Writer with a strong background in developing innovative software solutions and creating clear and concise technical documentation. Proficient in multiple programming languages and experienced in agile development methodologies. Committed to delivering high-quality code and documentation to enhance user experiences. 
+My name is James Amoo. Sometimes I write codes, other times I just watch movies. Most times, I love writing technical pieces to simplify concepts for developers.
 
-Software Engineering:
-As a Software Engineer, I leverage my expertise in Java, C, JavaScript and NodeJS to develop dynamic and responsive web applications. With a meticulous eye for detail and a focus on performance optimization, I strive to create intuitive interfaces that captivate users and drive business objectives. Proficient in modern frameworks, I am adept at building scalable and accessible applications that exceed expectations.
+Currently doing interesting Devrel stuff for Pieces, check out some of my technical blogs on the Pieces Blog:
 
-Technical Writing:
-With a keen ability to distill intricate technical concepts into comprehensive, user-friendly documentation, I thrive in the realm of Technical Writing. Through meticulous research and collaboration with cross-functional teams, I produce engaging guides, manuals, and tutorials that empower users to maximize the potential of products and services. My strong command of industry-standard tools and methodologies, such as Markdown and DITA, enables me to deliver high-quality documentation within strict timelines.
+[P.S: These aren't just plain technical content, they're carefully written to show just how much Pieces helps developers in their day-to-day activities. There's a piece of Pieces(pun intended) in every bit of it.]
 
+- [Introduction to Disk Scheduling Algorithms](https://code.pieces.app/blog/intro-to-disk-scheduling-algorithms)
+- [How to Add Animations to your React App Using GSAP](https://code.pieces.app/blog/add-animations-to-react-app-using-gsap)
+- [Nuxt vs Next: Which JavaScript Framework Suits Your Next Project?](https://code.pieces.app/blog/nuxt-vs-next-javascript-frameworks)
+- [Maximizing Development Efficiency with Pieces Copilot: Persistent Chats, Contextual Intelligence, and Enhanced Browser Integration](https://code.pieces.app/blog/maximizing-development-efficiency-with-pieces-copilot)
+- [A Modern Guide to React Unit Testing](https://code.pieces.app/blog/a-modern-guide-to-react-unit-testing)
+- [TypeScript Generics](https://code.pieces.app/blog/understanding-typescript-generics)
+- [Understanding React Internationalization](https://code.pieces.app/blog/understanding-react-internationalization)
+- [TypeScript vs JavaScript: Making the Right Choice for Your Project](https://code.pieces.app/blog/typescript-vs-javascript-making-the-right-choice-for-your-project)
 
-If you're seeking a passionate Software Engineer or a skilled Technical Writer who can add value to your organization, I invite you to connect with me. Let's discuss how my expertise and dedication can contribute to your success.
-
-Contact me at : ayojames444@gmail.com
+...more to be added. Check back soon:)
