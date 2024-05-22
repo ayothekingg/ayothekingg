@@ -12,8 +12,8 @@ To properly follow through, it's beneficial to know the following:
 Excited to get acquainted with the new features and start using them in practice? In this section, we'll take a close look at the new features of React 19. 
 
 ### React Compiler
-One of the major talking points from the React Conf 2024 is the release of the open source React Compiler
-
+One of the major talking points from the React Conf 2024 is the release of the open source [
+React Compiler](https://react.dev/learn/react-compiler) which further optimizes your code and improve the performance of your application. 
 
 
 
