@@ -8,6 +8,13 @@ To properly follow through, it's beneficial to know the following:
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [A Comprehensive Guide on React](https://code.pieces.app/blog/react-18-a-comprehensive-guide-to-the-latest-features-and-updates)
 
+## React 19 — Exploring the New Features
+Excited to get acquainted with the new features and start using them in practice? In this section, we'll take a close look at the new features of React 19. 
+
+### React Compiler
+One of the major talking points from the React Conf 2024 is the release of the open source React Compiler
+
+
 
 
 
