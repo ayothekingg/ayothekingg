@@ -4,6 +4,9 @@ Being the most popular JavaScript framework, [React](https://code.pieces.app/blo
 In this blog post, we'll dive into the exciting features of the newly released React 19. 
 
 ## Prerequisite
+To properly follow through, it's beneficial to know the following:
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [A Comprehensive Guide on React](https://code.pieces.app/blog/react-18-a-comprehensive-guide-to-the-latest-features-and-updates)
 
 
 
