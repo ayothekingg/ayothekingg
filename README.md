@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm James</h1>
 
-<h2 align="center">A Software Engineer and Technical Writer </h1>
+<h2 align="center">A Software Engineer and Technical Writer</h1>
 
 
 I excel in providing scalable software solutions, crafting engaging user experiences, and creating clear and concise documentation.
