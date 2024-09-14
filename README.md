@@ -7,7 +7,7 @@ I excel in providing scalable software solutions, crafting engaging user experie
 
 * 📚 I have a **First Class Honours** degree in Computer Science.
 * 🧌 I am a Software Engineer.
-* ✍️ I have over 30 articles published across 5 tech companies in the US.
+* ✍️ I have over 40 articles published across 5 tech companies in the US.
 * 🧠 I'm currently learning all about Artificial Intelligence and LLMs.
 * 🤝 I'm open to jobs, gigs, and collaborating on open source projects.
 * ✉️ You can contact me through my [Linkedin page](https://www.linkedin.com/in/jamesamooo/)
